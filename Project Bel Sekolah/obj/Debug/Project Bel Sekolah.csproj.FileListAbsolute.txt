@@ -1,0 +1,124 @@
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe.config
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.pdb
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csprojAssemblyReference.cache
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csproj.CoreCompileInputs.cache
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.exe
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.pdb
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\urip.accdb
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\urip.accdb
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe.config
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.pdb
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csproj.AssemblyReference.cache
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csproj.CoreCompileInputs.cache
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.exe
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.pdb
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat I.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat II.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Upacara.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 1.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 2.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran A.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran B.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\awal jam ke 1.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat I.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat II.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 1.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 2.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 3.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 4.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 5.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 6.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 7.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 8.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 9.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\pembuka.wav
+O:\Visual Studio\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\tak berjudul.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat I.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat II.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Upacara.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 1.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 2.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran A.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran B.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\awal jam ke 1.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat I.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat II.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 1.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 2.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 3.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 4.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 5.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 6.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 7.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 8.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 9.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\pembuka.wav
+E:\IK 2\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\tak berjudul.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat I.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat II.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Upacara.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 1.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 2.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran A.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran B.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\awal jam ke 1.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat I.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat II.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 1.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 2.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 3.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 4.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 5.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 6.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 7.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 8.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 9.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\pembuka.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\tak berjudul.wav
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\urip.accdb
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe.config
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.pdb
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csprojAssemblyReference.cache
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csproj.CoreCompileInputs.cache
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.exe
+F:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.pdb
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat I.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Istirahat II.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Akhir Kegiatan Keagamaan.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Kegiatan Keagamaan.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\5 Menit Awal Upacara.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 1.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pekan 2.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran A.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Akhir Pelajaran B.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\awal jam ke 1.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat I.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Istirahat II.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 1.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 2.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 3.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 4.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 5.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 6.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 7.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 8.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\Pelajaran ke 9.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\pembuka.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Moduleku\Suara\tak berjudul.wav
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\urip.accdb
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe.config
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.exe
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\bin\Debug\Project Bel Sekolah.pdb
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csproj.AssemblyReference.cache
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.csproj.CoreCompileInputs.cache
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.exe
+I:\Raffi S.A.K\Project Bel Sekolah\Project Bel Sekolah\obj\Debug\Project Bel Sekolah.pdb
